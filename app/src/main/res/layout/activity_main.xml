@@ -16,7 +16,7 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/poppins"
         android:text="Schdules"
-        android:textColor="@color/Orange"
+        android:textColor="@color/blue"
         android:textSize="24sp" />
 
     <androidx.recyclerview.widget.RecyclerView
@@ -39,6 +39,6 @@
         android:layout_marginTop="16dp"
         android:src="@drawable/add"
         android:tint="@color/white"
-        android:backgroundTint="@color/Orange"/>
+        android:backgroundTint="@color/blue"/>
 
 </RelativeLayout>
